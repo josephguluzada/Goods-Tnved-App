@@ -1,0 +1,12 @@
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Core/bin/Debug/net8.0/GoodsTnvedApp.Core.deps.json
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Core/bin/Debug/net8.0/GoodsTnvedApp.Core.dll
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Core/bin/Debug/net8.0/GoodsTnvedApp.Core.pdb
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Core/obj/Debug/net8.0/GoodsTnvedApp.Core.csproj.AssemblyReference.cache
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Core/obj/Debug/net8.0/GoodsTnvedApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Core/obj/Debug/net8.0/GoodsTnvedApp.Core.AssemblyInfoInputs.cache
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Core/obj/Debug/net8.0/GoodsTnvedApp.Core.AssemblyInfo.cs
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Core/obj/Debug/net8.0/GoodsTnvedApp.Core.csproj.CoreCompileInputs.cache
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Core/obj/Debug/net8.0/GoodsTnvedApp.Core.dll
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Core/obj/Debug/net8.0/refint/GoodsTnvedApp.Core.dll
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Core/obj/Debug/net8.0/GoodsTnvedApp.Core.pdb
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Core/obj/Debug/net8.0/ref/GoodsTnvedApp.Core.dll

@@ -1,0 +1,17 @@
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/bin/Debug/net8.0/GoodsTnvedApp.Business.deps.json
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/bin/Debug/net8.0/GoodsTnvedApp.Business.dll
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/bin/Debug/net8.0/GoodsTnvedApp.Business.pdb
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/bin/Debug/net8.0/GoodsTnvedApp.Core.dll
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/bin/Debug/net8.0/GoodsTnvedApp.Data.dll
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/bin/Debug/net8.0/GoodsTnvedApp.Data.pdb
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/bin/Debug/net8.0/GoodsTnvedApp.Core.pdb
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/obj/Debug/net8.0/GoodsTnvedApp.Business.csproj.AssemblyReference.cache
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/obj/Debug/net8.0/GoodsTnvedApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/obj/Debug/net8.0/GoodsTnvedApp.Business.AssemblyInfoInputs.cache
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/obj/Debug/net8.0/GoodsTnvedApp.Business.AssemblyInfo.cs
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/obj/Debug/net8.0/GoodsTnvedApp.Business.csproj.CoreCompileInputs.cache
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/obj/Debug/net8.0/GoodsTnv.288CDF42.Up2Date
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/obj/Debug/net8.0/GoodsTnvedApp.Business.dll
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/obj/Debug/net8.0/refint/GoodsTnvedApp.Business.dll
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/obj/Debug/net8.0/GoodsTnvedApp.Business.pdb
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Business/obj/Debug/net8.0/ref/GoodsTnvedApp.Business.dll

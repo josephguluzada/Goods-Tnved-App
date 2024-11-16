@@ -1,0 +1,15 @@
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/bin/Debug/net8.0/GoodsTnvedApp.Data.deps.json
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/bin/Debug/net8.0/GoodsTnvedApp.Data.dll
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/bin/Debug/net8.0/GoodsTnvedApp.Data.pdb
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/bin/Debug/net8.0/GoodsTnvedApp.Core.dll
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/bin/Debug/net8.0/GoodsTnvedApp.Core.pdb
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/obj/Debug/net8.0/GoodsTnvedApp.Data.csproj.AssemblyReference.cache
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/obj/Debug/net8.0/GoodsTnvedApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/obj/Debug/net8.0/GoodsTnvedApp.Data.AssemblyInfoInputs.cache
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/obj/Debug/net8.0/GoodsTnvedApp.Data.AssemblyInfo.cs
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/obj/Debug/net8.0/GoodsTnvedApp.Data.csproj.CoreCompileInputs.cache
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/obj/Debug/net8.0/GoodsTnv.8CA61129.Up2Date
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/obj/Debug/net8.0/GoodsTnvedApp.Data.dll
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/obj/Debug/net8.0/refint/GoodsTnvedApp.Data.dll
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/obj/Debug/net8.0/GoodsTnvedApp.Data.pdb
+/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Data/obj/Debug/net8.0/ref/GoodsTnvedApp.Data.dll

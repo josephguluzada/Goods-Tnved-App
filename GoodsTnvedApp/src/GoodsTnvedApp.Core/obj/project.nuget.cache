@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "us62b11bgBo=",
+  "success": true,
+  "projectFilePath": "/Users/yusifguluzada/Desktop/GoodsTnvedApp/src/GoodsTnvedApp.Core/GoodsTnvedApp.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/yusifguluzada/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}
